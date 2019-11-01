@@ -10,4 +10,4 @@ Python 3 and `pymem` package need to be installed in order to run OneByteRadar.
 ### Running
 Run CS:GO, then start OneByteRadar.py either by double-clicking it or typing `python OneByteRadar.py` command.
 Although program exists immediately, hack works as long as game's running.
-To **disable** the hack without game restart, **just run start OneByteRadar.py again**.
+To **disable** the hack without game restart, **just start OneByteRadar.py again**.
